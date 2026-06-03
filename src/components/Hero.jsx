@@ -7,7 +7,6 @@ export default function Hero() {
   const fullText = "Building Futuristic Digital Experiences";
   const roles = [
     "Frontend Developer",
-    "Electrical Engineer",
     "IoT Innovator",
     "Automation Enthusiast",
   ];
